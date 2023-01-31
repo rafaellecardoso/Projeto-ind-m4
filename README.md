@@ -1,6 +1,6 @@
 <h1> Sistema de acompanhamento do Resilia
 
-![Screenshot]( imgSIR.png )
+![Screenshot]( capturar.png )
 
 ### Projeto individual do Módulo 4 do curso Programadores Carioca - SENAC-Resilia
 
